@@ -1,0 +1,148 @@
+.container {
+    text-align: center;
+    background: orange;
+    width: 1024px;
+    height: auto;
+    margin: 0 auto;
+}
+
+#div-t {
+    background: #FFF;
+    display: inline-block;
+    float: left;
+    width: 66%;
+    height: auto;
+}
+
+#div-p {
+    /*position: relative;
+    bottom: 1200px;
+    left:550px; */
+
+    display: inline-block;
+    background: #3F9599;
+    float: left;
+    width: 33%;
+    height: 860.06px;
+}
+
+.xanh {
+    clear: left;
+    text-align: left;
+    padding-top: 10px;
+    color: #3F9599;
+}
+
+.thoigian {
+    float: right;
+    margin-top: -30px;
+    margin-right: 10px;
+}
+
+.mothang * {
+    float: left;
+
+}
+
+.num {
+    margin-top: 10px;
+    float: left;
+}
+.daude {
+    float: left;
+    margin-top: 15px;
+}
+hr {
+    clear: left;
+}
+
+p {
+    text-align: left;
+    margin: 0;
+}
+
+label {
+    text-align: left;
+}
+
+progress {
+
+    background: #3F9599;
+    height: 10px;
+    width: 250px;
+    display: inline-block;
+    margin-bottom: 15px;
+    margin-top: 10px;
+
+}
+
+.tiendo {
+    display: inline-block;
+    float: left;
+    margin-top: 2px;
+
+}
+
+.tiendo:nth-child(1) {
+    clear: left;
+}
+
+#anhthe {
+    background: #FFF;
+    margin: 5px;
+}
+
+#anh {
+    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+    margin-top: 15px;
+}
+
+#hoten {
+    color: #3F9599;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 0;
+
+}
+
+#chucvu {
+    text-align: center;
+    font-size: 17px;
+    margin-top: 2px;
+    padding-bottom: 10px;
+
+}
+.icon {
+    margin: 10px 0 10px 10px;
+}
+
+.icon-anh {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    float: left;
+}
+
+.p-icon {
+    color: #FFF;
+    float: left;
+}
+
+ul li {
+    color: #FFF;
+    text-align: left;
+}
+
+.white {
+    color: #FFF;
+}
+
+.big {
+    font-size: 26px;
+}
+.muc-tieu {
+    float: left;
+}
