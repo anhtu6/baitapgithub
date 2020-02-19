@@ -7,8 +7,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Y0L40FxaAdISjeJTEb20bza1AO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -18,9 +26,27 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../demo code" />
+  </component>
+  <component name="RunManager" selected="Node.js.doitien.js">
+    <configuration name="debug doitien" type="JavascriptDebugType" uri="http://localhost:63342/JS bien va toan tu/baitapbien/doitien.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="doitien.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/baitapbien/js/doitien.js" working-dir="$PROJECT_DIR$/baitapbien/js">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.debug doitien" />
+      <item itemvalue="Node.js.doitien.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.doitien.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -32,11 +58,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582074369994</updated>
-      <workItem from="1582074371258" duration="469000" />
+      <workItem from="1582074371258" duration="14351000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582093718206">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582093718206" />
+    <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1582097776620">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582097776620" />
+    <state width="1899" height="338" key="GridCell.Tab.0.bottom" timestamp="1582093794733">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="338" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582093794733" />
+    <state width="1899" height="338" key="GridCell.Tab.0.center" timestamp="1582093794733">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="338" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582093794733" />
+    <state width="1899" height="338" key="GridCell.Tab.0.left" timestamp="1582093794732">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="338" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582093794732" />
+    <state width="1899" height="338" key="GridCell.Tab.0.right" timestamp="1582093794733">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="338" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582093794733" />
+    <state x="934" y="260" key="run.anything.popup" timestamp="1582100561402">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="934" y="260" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582100561402" />
   </component>
 </project>
