@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        h1 {
+            font-weight: bold;
+        }
+    </style>
+    <script src="js/maytinhdongian.js"></script>
+</head>
+<body>
+    <h1>Calculator</h1>
+    <form>
+    <table>
+        <tr>
+            <td colspan="2"><input type="text" id="sotrai"></td>
+            <td colspan="2"><input type="text" id="sophai"></td>
+        </tr>
+        <tr>
+            <td><button type="button" id="cong1" onclick="cong();">Additon(+)</button></td>
+            <td><button type="button" id="tru1" onclick="tru();">Subtraction(-)</button></td>
+            <td><button type="button" id="nhan1" onclick="nhan();">Multiplication(X)</button></td>
+            <td><button type="button" id="chia1" onclick="chia();">Division(/)</button></td>
+
+        </tr>
+        <tr>
+            <td colspan="4"><input type="reset" value="Reset"></td>
+        </tr>
+
+    </table>
+    </form>
+    <p>Ket qua la: <span id="result"></span></p>
+</body>
+</html>
