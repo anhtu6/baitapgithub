@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #p1 {
+            color: blue;
+        }
+        #b1 {
+            background:#8F82CF ;
+            color: white;
+        }
+        table tr:first-child td {
+            text-align: center;
+            font-weight: bold;
+        }
+    </style>
+
+</head>
+<body>
+<script src="js/doitien.js"></script>
+    <table>
+        <tr>
+            <td>Amount</td>
+            <td>From Currency</td>
+            <td>To Currency</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><input type="text" name="name" id="amount"></td>
+            <td>
+                <select id="select1">
+                    <option id="vn" value="vn">Vietnam</option>
+                    <option id="lao" value="lao">Lao</option>
+                </select>
+            </td>
+            <td>
+                <select id="select2">
+                    <option id="usa" value="usa">USD</option>
+                    <option id="euro" value="euro">Euro</option>
+                </select>
+            </td>
+            <td><button onclick="convert123()" id="b1">Convert</button></td>
+        </tr>
+    </table>
+    <p id="p1">Ket qua la: <span id="result"></span></p>
+
+
+</body>
+</html>
