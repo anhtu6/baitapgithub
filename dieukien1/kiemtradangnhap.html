@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let admin = prompt('Nhap ten dang nhap');
+    if (admin == "Admin") {
+        let pass = prompt('Nhap mat khau');
+        if (pass == "TheMaster") {
+            alert('welcome');
+        } else {
+            if (pass == "null") {
+                alert('canceled');
+            } else {
+                alert('wrong password');
+            }
+        }
+
+    } else {
+        if (admin = "null") {
+            alert('test');
+        } else {
+            alert("i dont know you");
+        }
+    }
+    console.log(admin);
+</script>
+
+</body>
+</html>
