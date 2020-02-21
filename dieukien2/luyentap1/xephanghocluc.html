@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let general1 = parseFloat(prompt('Nhap diem thi thuong so 1'));
+    let general2 = parseFloat(prompt('Nhap diem thi thuong so 2'));
+    let general3 = parseFloat(prompt('Nhap diem thi thuong so 3'));
+    let midterm = parseFloat(prompt('Nhap diem thi giua ky'));
+    let final = parseFloat(prompt('Nhap diem thi cuoi ki'));
+    let average =(general1 + general2 + general3 + 2*midterm + 3*final)/6;
+   if (average<6) {
+       alert('xep loai trung binh');
+   } else {
+       if (average<8) {
+           alert('xep loai kha');
+       } else {
+           alert('xep loai gioi');
+       }
+   }
+
+</script>
+</body>
+</html>
